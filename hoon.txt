@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .profile {
+            text-align: center;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .profile img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+        }
+        .profile h1 {
+            margin: 10px 0;
+        }
+        .profile p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <img src="your-profile-picture.jpg" alt="Profile Picture">
+        <h1>홍길동</h1>
+        <p>안녕하세요, 저는 웹 개발자입니다. GitHub에서 함께 협업할 수 있어요!</p>
+    </div>
+</body>
+</html>
