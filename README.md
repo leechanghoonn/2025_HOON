@@ -22,3 +22,6 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Emmett6401?style=social)
 ![Uploading image.png…]()
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmett6401&show_icons=true&theme=radical)
+![Uploading image.png…]()
