@@ -18,4 +18,7 @@
 ![image](https://github.com/user-attachments/assets/d2aad2ad-d53d-46eb-8d79-979319765de7)
 
 ![GitHub followers](https://img.shields.io/github/followers/Emmett6401?style=social)
+![image](https://github.com/user-attachments/assets/a02484bc-04ed-462e-b618-71cae4648f94)
+
+![GitHub stars](https://img.shields.io/github/stars/Emmett6401?style=social)
 ![Uploading image.png…]()
