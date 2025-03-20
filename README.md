@@ -3,6 +3,8 @@
 
 ## 이창훈을 소개합니다 
 
+우송대학교를 다니고 있는 컴퓨터 소프트웨어학과 2학년입니다
+
 우리들 사진
 <img src="image/1.jpg" width="320" height="240" />
 <img src="image/2.jpg" width="320" height="240" />
